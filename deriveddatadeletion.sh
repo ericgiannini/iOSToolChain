@@ -1,6 +1,6 @@
 #!/bin/bash 
 #Deleting derived data
-    #Declare the initial director as a global variable
+    #Declare the initial directory as a global variable
     INITIAL_DIR=$PWD
 
     #Navigate to Derived Data
