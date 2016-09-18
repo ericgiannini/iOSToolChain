@@ -16,7 +16,7 @@
         data =`ls | wc -l`
     done
 
-    echo Done
+    echo Derived data is deleted.
 
     #Go back to starting dir
     cd $INITIAL_DIR
